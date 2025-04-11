@@ -7,7 +7,7 @@ const ChatLayout = () => {
       <div><i className="fa-solid fa-camera text-pink-200 text-shadow-lg/20"></i></div>
       <div><i className="fa-solid fa-paperclip text-pink-200 text-shadow-lg/20"></i></div>
       <div className=""><i className="fa-solid fa-microphone text-pink-200 underline text-shadow-lg/20"></i></div>
-      </div>
+      </div> 
     </div>
   );
 };
